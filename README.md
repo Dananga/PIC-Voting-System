@@ -7,4 +7,4 @@ Pre build file : https://github.com/Dananga/Voting-System-PIC/blob/master/dist/d
 # Features :
     1) 16*2 lcd display support.(can change display to 16*4,etc).
     2) 3 voting choices.(can add more).
-    3) false voting blocking.
+    3) false vote blocking.
